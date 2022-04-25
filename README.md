@@ -1,4 +1,4 @@
-![banner](https://github.com/oxyblade-1/oxyblade-1/blob/main/sale_25313_primary_image_wide.jpg)
+![banner](https://github.com/oxyblade-1/oxyblade-1/blob/main/banner.jpg)
 
 > Presentation
 
