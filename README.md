@@ -1,5 +1,9 @@
 ![banner](https://github.com/oxyblade-1/oxyblade-1/blob/main/banner.jpg)
 
+<p style="margin: 15px;" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=16EB27&center=true&vCenter=true&lines=developer+beginner;music+addict;minecraft+for+life">
+</p>
+
 > Presentation
 
 Hi, first of all I want to say that I'm not really a developer, I'm learning java.
