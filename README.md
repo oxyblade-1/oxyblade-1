@@ -12,10 +12,9 @@
 
 
 <!-- Advanced -->
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oxyblade-1&&theme=dark" alt="oxyblade-1" />
-
-<div align="right">
+<div align="center">
+    <br>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oxyblade-1&&theme=dark" alt="oxyblade-1" />
     <p>
     <!-- C++ -->
         <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
