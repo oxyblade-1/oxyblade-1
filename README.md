@@ -5,7 +5,7 @@
 ##
 
 <!-- contribution -->
-<div>
+<div style="display: inline_block">
     &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=oxyblade-1&show_icons=true&locale=en&theme=dark" alt="oxyblade-1" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oxyblade-1&show_icons=true&locale=en&layout=compact&theme=dark" alt="oxyblade-1" />
 </div>
