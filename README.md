@@ -7,13 +7,13 @@
 <!-- contribution -->
 <div>
     &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=oxyblade-1&show_icons=true&locale=en&theme=dark" alt="oxyblade-1" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxyblade-1&&theme=dark" alt="oxyblade-1" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oxyblade-1&show_icons=true&locale=en&layout=compact&theme=dark" alt="oxyblade-1" />
 </div>
 
 
 <!-- Advanced -->
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=oxyblade-1&show_icons=true&locale=en&layout=compact&theme=dark" alt="oxyblade-1" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oxyblade-1&&theme=dark" alt="oxyblade-1" />
 
 <div align="right">
     <p>
