@@ -17,17 +17,17 @@ But I hope in any case that later I will be able to do very big projects.
 > My HardSkills
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oxyblade-1&show_icons=true&locale=en&layout=compact" alt="oxyblade-1" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oxyblade-1&show_icons=true&locale=en&layout=compact&theme=dark" alt="oxyblade-1" />
 </p>
 <p>
-    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=oxyblade-1&show_icons=true&locale=en" alt="oxyblade-1" />
+    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=oxyblade-1&show_icons=true&locale=en&theme=dark" alt="oxyblade-1" />
 </p>
 
 <!-- Build added -->
 > Contribution
 
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxyblade-1&" alt="oxyblade-1" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxyblade-1&&theme=dark" alt="oxyblade-1" />
 </p>
 
 <!-- code language -->
