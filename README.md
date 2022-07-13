@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/oxyblade-1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oxyblade-1&show_icons=true&locale=en&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=oxyblade-1&show_icons=true&locale=en&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oxyblade-1&&theme=dark" alt="oxyblade-1" />
 </div>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=oxyblade-1&label=Profile%20views&color=0e75b6&style=flat" alt="oxyblade-1" /> </p>
@@ -17,7 +17,7 @@
 <p align="left"> <a href="https://twitter.com/oxyblade3" target="blank"><img src="https://img.shields.io/twitter/follow/oxyblade3?logo=twitter&style=for-the-badge" alt="oxyblade3" /></a> </p> -->
     
  <div align="center">
-     <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oxyblade-1&&theme=dark" alt="oxyblade-1" />
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=oxyblade-1&show_icons=true&locale=en&layout=compact&theme=dark"/>
     <br>
     <br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
