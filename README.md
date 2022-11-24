@@ -1,5 +1,5 @@
 <div style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=16EB27&center=true&vCenter=true&lines=developer+and+programmer;much+programming++code;minecraft+for+ever">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=16EB27&center=true&vCenter=true&lines=developer+and+programmer;much+programming++code;minecraft+for+ever;begin+in+cybersecurity">
 </div>
 
 ##
@@ -20,13 +20,12 @@
      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=oxyblade-1&show_icons=true&locale=en&layout=compact&theme=dark"/>
     <br>
     <br>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="35" height="35"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualcode" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </div>
